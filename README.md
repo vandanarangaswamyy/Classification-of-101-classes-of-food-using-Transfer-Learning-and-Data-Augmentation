@@ -9,7 +9,7 @@ This project demonstrates how **Transfer Learning** and **Data Augmentation** si
 - Uses **Transfer Learning** (e.g., ResNet50, InceptionV3) for faster convergence and better accuracy.
 - Applies **Data Augmentation** to enhance generalization and prevent overfitting.
 - Compares models trained with and without transfer learning and augmentation.
-- Achieves improved accuracy over traditional approaches (~50.76%).
+- Achieves improved accuracy over traditional approaches (~82%).
 
 ## 🔍 Key Concepts Explored
 
@@ -55,13 +55,9 @@ This project demonstrates how **Transfer Learning** and **Data Augmentation** si
 ## 📈 Sample Results
 
 - Baseline accuracy (from literature): **50.76%**
-- Improved accuracy (with Transfer Learning + Augmentation): *Update this with your best result*
+- Improved accuracy (with Transfer Learning + Augmentation): **82%**
 
-## 📄 Files in Repository
 
-- `CLASSIFICATION OF 101 CLASSES...ipynb`: Main notebook containing all code and experiments.
-- `CLASSIFICATION OF 101 CLASSES...docx`: Full project report including literature survey, architecture, and findings.
-- `README.md`: This file!
 
 ## 📚 References
 
